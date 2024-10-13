@@ -1,4 +1,4 @@
-package com.jpsantq.customer_service.controller;
+package com.jpsantq.customer_service.advice;
 
 import com.jpsantq.customer_service.exceptions.CustomerNotFoundException;
 import com.jpsantq.customer_service.exceptions.InsufficientBalanceException;
